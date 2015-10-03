@@ -23,10 +23,6 @@
     - [Measuring Engagement at Mozilla](#measuring-engagement-at-mozilla)
   - [During code reviews](#during-code-reviews)
   - [Flooding issue tracker? Don't worry!](#flooding-issue-tracker-dont-worry)
-- [Microagressions](#microagressions)
-  - [Check your speech](#check-your-speech)
-  - [Death by a thousand paper cuts](#death-by-a-thousand-paper-cuts)
-  - [If you are called out](#if-you-are-called-out)
 - [Patience with our brains](#patience-with-our-brains)
   - [Online Negative Bias](#online-negative-bias)
   - [Pygmalion effect / Chameleon effect / Unintentional mirroring](#pygmalion-effect--chameleon-effect--unintentional-mirroring)
@@ -82,13 +78,11 @@ better product.
 
 ### Examples
 
-* Apple Store had a glass stair case. If there had been women in the design
-    phases, they would have avoided the skirts problem.
+* Apple Store had a glass stair case. No skirts allowed.
     http://jezebel.com/5810219/courthouses-glass-staircase-clearly-not-designed-with-ladies-skirts-in-mind
-* Crash dummies for cars were male until 2011; women and kids weren't taken at
-    first into account, and airbags would be hazardous to them.
+* Crash dummies for cars were male until 2011
     http://www.autoblog.com/2012/08/29/theres-a-reason-all-crash-test-dummies-were-male-until-last-yea/
-* Heart rate monitor in Apple Watch more innacurate for people with wrist tattoos
+* Heart rate monitor in Apple Watch more inaccurate for people with wrist tattoos
     http://www.macrumors.com/2015/04/29/apple-watch-sensors-tattoogate/
 
 ## As humans
@@ -115,8 +109,6 @@ Feedback is about all the interactions you have:
 * who speaks up
 * who stays quiet
 * who is invited
-* tone of the message
-* when in person, body language
 
 ## My work =~ Myself
 
@@ -146,10 +138,7 @@ improvisation, which are:
 * accept all ideas / don’t reject any idea
 * don't use “that will not work...”
 * don't use “yes, but...”
-* use “yes, and...”
-* make your partner look good
-* have you considered...?
-* ...what do you think of doing X instead?
+* instead, use “yes, and...”
 
 Once that new behavior is recognized as a required behavior, it can then evolve
 into a standard practice in the organization. But it must be required and
@@ -186,9 +175,6 @@ Usage examples, Contributing guidelines.
 
 ## Do fast first code reviews
 
-> You need to quickly thank and give useful feedback to people who are already
-> contributing, even if that feedback will include criticism.
->
 > How To Improve Bus Factor In Your Open Source Project - Sumana Harihareswara
 > http://www.harihareswara.net/sumana/2015/8/9/0
 
@@ -240,52 +226,12 @@ issue.
 Situations we see often enough:
 
 * Issue is not a bug
-* Issue is too specific to your app
+* Issue is specific to your app
 * Issue is stale and abandoned
 * Unclear request
 
 All of these are detailed on the [Maintaining Open Source Projects (Beta)
 book](http://maintaining-open-source.com/).
-
-# Microagressions
-
-Unintentional daily acts that reinforce stereotypes and oppression.
-
-## Check your speech
-
-Change unwelcoming speech defaults
-
-![stackoverflow](slides/imgs/stackoverflow.png)
-https://twitter.com/alexfulsome/status/641748473470054400
-
-* Hi, guys!
-* You are crazy
-* You code like a girl
-
-## Death by a thousand paper cuts
-
-Julie Pagano's blog post, "my experiences in tech: death by 1000 paper cuts",
-describes her old job in one single paragraph that might leave you out of
-breath.
-
-http://juliepagano.tumblr.com/post/46206589124/my-experiences-in-tech-death-by-1000-paper-cuts
-
-The problem with microagressions is they are hard to spot for the people
-commiting them, but they have very real impact. Julie found another
-job to be more comfortable at work.
-
-## If you are called out
-
-If someone says to you, “hey, you just feigned surprise” or “that’s subtly
-sexist”, it doesn’t mean you’re a “bad” person. We’ve all done these things
-before. Do the following:
-
-* Don’t worry
-* If it's subtle, it’s probably not obvious
-* Apologize, reflect for a second
-* Move on
-
-https://www.recurse.com/blog/38-subtle-isms-at-hacker-school
 
 # Patience with our brains
 
@@ -336,7 +282,7 @@ exam results.
 “The Cathedral and the Bazaar” (1999) is a famous essay by Eric Raymond on software
 engineering states in its 10th lesson:
 
-[SLIDE]
+SLIDE WITH QUOTE
 
 > Treat all your contributors as if they are the most valuable resource, and
 > they will respond by becoming your most valuable resource.
@@ -368,35 +314,19 @@ of Justice. The US Senate has recently passed a resolution apologizing to
 African-Americans for the “fundamental injustice, cruelty, brutality, and
 inhumanity of slavery”.
 
-Slavery is not over, but it certainly is less frequent, and now it's easier to
-fight against. A step forward.
-
 **And I remembered women’s suffrage**
 
-Women's right to vote proponents had to change collective consciousness once. Now many countries have had female presidents for years.
+Women's right to vote proponents had to change collective consciousness once.
+Now many countries have had female presidents for years.
 
 There are still other rights to pursue, but women’s vote is today as significant
 as any other person in society. A step forward.
 
 **And I remembered same-sex marriage**
 
-In the US, same-sex marriage went from a “we don’t talk about that” discourse to
-federal law in a few years.
-
 **And I remembered salary gaps**
 
-I remembered some real colleagues living real lives earning real salaries,
-telling me they would be fine getting a pay cut if that made the organizations
-they worked for more fair to everyone and sustainable as a whole.
-
-Implementing open salaries may be a step forward against salary gaps.
-
-They all were (and are) political changes that seemed impossible to discuss
-while they were not yet obtained, and afterwards they were broadly embraced by
-society, government, and even supranational organizations.
-
-How does that happen? Does the majority of society switch opinions at roughly
-the same time?
+Which is more of an ongoing discussion.
 
 ## Common knowledge
 
@@ -441,7 +371,7 @@ press, the Internet, public meetings, the #talkpay Twitter thread.
 ## "Unwelcoming behavior is not ok", and that is common knowledge
 
 We all know many concrete unjust situations in our organizations, and we want to
-change them. That is common knowledge at least for Open Source and Feelings
+change them. This is common knowledge at least for Open Source and Feelings
 participants (not only in person, but also Twitter, Confreaks, and elsewere).
 
 * Let's carefuly talk about salaries
@@ -449,12 +379,13 @@ participants (not only in person, but also Twitter, Confreaks, and elsewere).
 * Let's talk about gender and race ratios in our teams
 
 Like slavery moved from a “that's how the world works” into an awkward “I swear
-I grant my employees all their rights (I even pay them fairly!)”, let's make
-it common knowledge the fact that gender, or race does not affect the value of
-our work, the opportunities we get, or the recognition or salary we should get.
+I grant my employees all their rights (I even pay them fairly!)”,
 
-We all know that, and we all know that we know that. Armed with this, let's move
-forward to more welcoming communities.
+Let's make it common knowledge the fact that gender, or race does not affect the
+value of our work, the opportunities we get, or the recognition or salary we
+should get.
+
+Let’s keep calm, and have these now difficult conversations.
 
 ![](slides/imgs/keep-calm-it-s-only-difficult-conversations.png)
 
