@@ -517,7 +517,7 @@ awkward silence into open discussion of the they were all seeing.
 Until an announcement, it’s possible that not everyone knew that everyone knew
 the thing, and that can prevent individuals from acting.
 
-As a dictatorial leader, to prevent something from becoming common knowledge,
+As a dictator, to prevent something from becoming common knowledge,
 all you need to do is censor the common-knowledge-producing mechanisms: the
 press, the Internet, public meetings, the #talkpay Twitter thread.
 
