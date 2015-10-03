@@ -2,6 +2,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Abstract](#abstract)
 - [Welcome, humans!](#welcome-humans)
@@ -11,29 +12,22 @@
   - [As humans](#as-humans)
 - [On feedback](#on-feedback)
   - [Implicit feedback](#implicit-feedback)
-  - [Unintentional feedback](#unintentional-feedback)
-  - [My work and myself](#my-work-and-myself)
+  - [My work =~ Myself](#my-work--myself)
   - [Pixar’s “Plussing”](#pixar%E2%80%99s-%E2%80%9Cplussing%E2%80%9D)
   - [Good Feedback](#good-feedback)
     - [Every person knows something you don’t](#every-person-knows-something-you-don%E2%80%99t)
 - [Onboarding to your Open Source Project](#onboarding-to-your-open-source-project)
   - [Informative website or README](#informative-website-or-readme)
   - [Use labeled issues](#use-labeled-issues)
-  - ["How can I help you?"](#how-can-i-help-you)
   - [Do fast first code reviews](#do-fast-first-code-reviews)
-  - [During code reviews](#during-code-reviews)
     - [Measuring Engagement at Mozilla](#measuring-engagement-at-mozilla)
+  - [During code reviews](#during-code-reviews)
   - [Flooding issue tracker? Don't worry!](#flooding-issue-tracker-dont-worry)
 - [Microagressions](#microagressions)
   - [Check your speech](#check-your-speech)
   - [Death by a thousand paper cuts](#death-by-a-thousand-paper-cuts)
-  - ["The elixir guy"](#the-elixir-guy)
-  - [No subtle-isms](#no-subtle-isms)
-  - [Talk about this in opt-in channels](#talk-about-this-in-opt-in-channels)
   - [If you are called out](#if-you-are-called-out)
 - [Patience with our brains](#patience-with-our-brains)
-  - [Fairness Bias](#fairness-bias)
-  - [Loss Aversion](#loss-aversion)
   - [Online Negative Bias](#online-negative-bias)
   - [Pygmalion effect / Chameleon effect / Unintentional mirroring](#pygmalion-effect--chameleon-effect--unintentional-mirroring)
 - [Welcoming behavior - Higher level](#welcoming-behavior---higher-level)
@@ -124,12 +118,7 @@ Feedback is about all the interactions you have:
 * tone of the message
 * when in person, body language
 
-## Unintentional feedback
-
-Are we unintentionally telling people that they don’t belong?
-The project's name, tone in mailing lists, cultural references, has an impact.
-
-## My work and myself
+## My work =~ Myself
 
 Creative people often can feel that a rejection of their idea is a rejection of
 them.
@@ -162,17 +151,19 @@ improvisation, which are:
 * have you considered...?
 * ...what do you think of doing X instead?
 
-http://99u.com/articles/7224/why-fighting-for-our-ideas-makes-them-better
-
 Once that new behavior is recognized as a required behavior, it can then evolve
 into a standard practice in the organization. But it must be required and
 practiced, first and foremost, by the leaders of the organization.
+
+http://99u.com/articles/7224/why-fighting-for-our-ideas-makes-them-better
 
 ## Good Feedback
 
 Actionable, specific, and kind.
 
-Not "You always do that thing that's bad for the group", instead "When X happened you did Y, do you think Z would have been better?".
+"You always do that thing that's bad for the group"
+<
+"When X happened you did Y, do you think Z would have been better?".
 
 Encouraging, and within recipients scope of skills.
 
@@ -185,23 +176,13 @@ that they have a valuable impact to your project and community.
 
 ## Informative website or README
 
-“Landing page” for your projects. Should contain at least:
-
-* Communication channels
-* Installation instructions
-* Usage examples
-* Contributing guidelines
+“Landing page” for your projects. Should contain at least
+Communication channels, Installation instructions,
+Usage examples, Contributing guidelines.
 
 ## Use labeled issues
 
 ![Labeled issues](slides/imgs/tagged-issues.png)
-
-## "How can I help you?"
-
-> Consider changing name from “core team to “support team” to make the project
-> more approachable for contributing to it -@OssAnna16
->
-> https://twitter.com/cczona/status/640963179099484160
 
 ## Do fast first code reviews
 
@@ -210,14 +191,6 @@ that they have a valuable impact to your project and community.
 >
 > How To Improve Bus Factor In Your Open Source Project - Sumana Harihareswara
 > http://www.harihareswara.net/sumana/2015/8/9/0
-
-## During code reviews
-
-* Try to respond to every question and comment
-* If you disagree strongly, consider giving it a moment before responding
-* Don’t assume people share your experience or context. Avoid words like
-    “basically”, “simply”, “clearly”, “obviously”, etc
-* Also, feedback. We just talked about feedback
 
 ### Measuring Engagement at Mozilla
 
@@ -238,6 +211,14 @@ Slide 26
 
 > Showing a contributor the next bug they can work on dramatically improves the
 > odds of contributing.
+
+## During code reviews
+
+* Try to respond to every question and comment
+* If you disagree strongly, consider giving it a moment before responding
+* Don’t assume people share your experience or context. Avoid words like
+    “basically”, “simply”, “clearly”, “obviously”, etc
+* Also, feedback. We just talked about feedback
 
 ## Flooding issue tracker? Don't worry!
 
@@ -261,9 +242,7 @@ Situations we see often enough:
 * Issue is not a bug
 * Issue is too specific to your app
 * Issue is stale and abandoned
-* Issue could be a patch. "Go for it!"
 * Unclear request
-* Recurring question
 
 All of these are detailed on the [Maintaining Open Source Projects (Beta)
 book](http://maintaining-open-source.com/).
@@ -287,56 +266,13 @@ https://twitter.com/alexfulsome/status/641748473470054400
 
 Julie Pagano's blog post, "my experiences in tech: death by 1000 paper cuts",
 describes her old job in one single paragraph that might leave you out of
-breath. I quote it because it illustrates many common examples. We can learn
-from good examples, and from the following ones too:
-
-* Someone in authority pats me on the head to dismiss an argument as though I
-    was a child – a thing he’d be unlikely to do with a male coworker
-* Same person makes comments when I wear makeup to work – I feel uncomfortable
-    doing so again
-* I’m asked to take notes in meetings where I am a technical lead and should be
-    actively participating
-* Male coworkers make comments about stalking women on facebook and looking at
-    images of booth babes in work meetings (some later apologize)
-* Others say that front-end development isn’t real software engineering
-* I suspect I’m paid less than male colleagues (perhaps paranoia, perhaps real)
+breath.
 
 http://juliepagano.tumblr.com/post/46206589124/my-experiences-in-tech-death-by-1000-paper-cuts
 
 The problem with microagressions is they are hard to spot for the people
 commiting them, but they have very real impact. Julie found another
 job to be more comfortable at work.
-
-## "The elixir guy"
-
-Lennart Fridén went to an erlang meetup and he was tagged the elixir guy. He
-says people with no thick skin might never come back, because they can feel
-intimidated. Feelings matter, and what and how we communicate is intrinsically
-related with feelings we convey and evoke.
-
-http://codecoupled.org/2015/06/20/syntax-semantics-and-aesthetics/
-
-## No subtle-isms
-
-"No subtle-isms" is about recognizing the ways we’re unconsciously making our
-friends’ lives a little worse. Commiting subtle-isms does not make you a bad
-person and is not a huge deal, but it's good to keep in mind to avoid it in the
-future.
-
-https://www.recurse.com/blog/38-subtle-isms-at-hacker-school
-
-## Talk about this in opt-in channels
-
-Instead of somewhere that’s opt-out (like the mailing list, public chat, or
-within earshot of someone trying to program).
-
-* We want marginalized people to feel welcome, not like they have to defend
-    their presence
-* We don’t want marginalized people to have to spend time educating
-    non-marginalized people who might be coming to these ideas for the first
-    time
-
-This gives everyone an equal chance to focus on programming.
 
 ## If you are called out
 
@@ -348,6 +284,8 @@ before. Do the following:
 * If it's subtle, it’s probably not obvious
 * Apologize, reflect for a second
 * Move on
+
+https://www.recurse.com/blog/38-subtle-isms-at-hacker-school
 
 # Patience with our brains
 
@@ -362,22 +300,6 @@ We'll see a few examples, and their application in our work in the Open Source
 community:
 
 [cognitive bias]: https://en.wikipedia.org/wiki/Cognitive_bias
-
-## Fairness Bias
-
-[Fairness bias] describes our tendency to seek balance. If a supplier keeps an
-open line of communication with an unhappy customer about a faulty product, the
-customer will respond more favorably regardless of the outcome. The need to be
-heard takes precedence over the need for the product working correctly.
-
-Fairness bias can be applied to code reviews.
-
-* As contributors: we can harness this effect before the conversation is even
-    started, by explaining the rationale behind our work beforehand.
-* As reviewers: frame a comment as a question instead of as an assertion to make
-    the contributor feel heard and valued.
-
-[Fairness bias]: http://www.amazon.com/Sway-Irresistible-Pull-Irrational-Behavior/dp/0385530609
 
 ## Online Negative Bias
 
@@ -411,8 +333,10 @@ thought had high potential scored better on the test than their “unknown” an
 “regular” counterparts. Being *labeled* as leaders resulted in actual improved
 exam results.
 
-“The Cathedral and the Bazaar” is a famous essay by Eric Raymond on software
+“The Cathedral and the Bazaar” (1999) is a famous essay by Eric Raymond on software
 engineering states in its 10th lesson:
+
+[SLIDE]
 
 > Treat all your contributors as if they are the most valuable resource, and
 > they will respond by becoming your most valuable resource.
@@ -507,15 +431,8 @@ https://en.wikipedia.org/wiki/The_Emperor's_New_Clothes#Plot
 ## Consequences
 
 Stating something publicly (even when obvious) can change how a group of people
-feel and behave.
-
-Even if everyone knows that talking about salary is beneficial, if it’s not
-common knowledge, anyone who publishes their salary might incur in personal
-risk. In the naked emperor story, it takes an innocent child to change the
-awkward silence into open discussion of the they were all seeing.
-
-Until an announcement, it’s possible that not everyone knew that everyone knew
-the thing, and that can prevent individuals from acting.
+feel and behave. Until an announcement, it’s possible that not everyone knew
+that everyone knew the thing, and that can prevent individuals from acting.
 
 As a dictator, to prevent something from becoming common knowledge,
 all you need to do is censor the common-knowledge-producing mechanisms: the
