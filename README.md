@@ -5,6 +5,10 @@
 
 - [Abstract](#abstract)
 - [Welcome, humans!](#welcome-humans)
+- [Why diversity?](#why-diversity)
+  - [As professionals](#as-professionals)
+    - [Examples](#examples)
+  - [As humans](#as-humans)
 - [On feedback](#on-feedback)
   - [Implicit feedback](#implicit-feedback)
   - [Unintentional feedback](#unintentional-feedback)
@@ -32,10 +36,6 @@
   - [Loss Aversion](#loss-aversion)
   - [Online Negative Bias](#online-negative-bias)
   - [Pygmalion effect / Chameleon effect / Unintentional mirroring](#pygmalion-effect--chameleon-effect--unintentional-mirroring)
-- [Why diversity?](#why-diversity)
-  - [As professionals](#as-professionals)
-    - [Examples](#examples)
-  - [As humans](#as-humans)
 - [Welcoming behavior - Higher level](#welcoming-behavior---higher-level)
   - [Common knowledge](#common-knowledge)
     - [Soviet handing leaflets example](#soviet-handing-leaflets-example)
@@ -74,6 +74,42 @@ explore how to communicate effectively. Always, and with everyone.
 >
 > http://humanedevelopment.org/
 
+# Why diversity?
+
+## As professionals
+
+Diversity is a learning opportunity. It makes us more capable of delivering a
+better product.
+
+> It’s not about adding diversity for the sake of diversity, it’s about
+> subtracting homogeneity for the sake of realism.
+>
+> https://twitter.com/MaryRobinette/status/545428674812465152
+
+### Examples
+
+* Apple Store had a glass stair case. If there had been women in the design
+    phases, they would have avoided the skirts problem.
+    http://jezebel.com/5810219/courthouses-glass-staircase-clearly-not-designed-with-ladies-skirts-in-mind
+* Crash dummies for cars were male until 2011; women and kids weren't taken at
+    first into account, and airbags would be hazardous to them.
+    http://www.autoblog.com/2012/08/29/theres-a-reason-all-crash-test-dummies-were-male-until-last-yea/
+* Heart rate monitor in Apple Watch more innacurate for people with wrist tattoos
+    http://www.macrumors.com/2015/04/29/apple-watch-sensors-tattoogate/
+
+## As humans
+
+> When someone has been discriminated against or is a minority, the status quo
+> is in and on itself unfair. You need to lift people up, give them
+> opportunities that you would not normally. If you are picking names out of a
+> hat that's not sufficient because they are in the minority, they have less
+> chance to be picked out of the hat. And so it does require you to change your
+> mindset, and make an effort to reach out to people who are in a minority
+> status in the group, and make sure they are included.
+>
+> Chad Pytel, developer and CEO of thoughtbot
+> http://betweenpipes.com/2015/06/25/Pytel-Fernandez/
+
 # On feedback
 
 ## Implicit feedback
@@ -98,7 +134,7 @@ The project's name, tone in mailing lists, cultural references, has an impact.
 Creative people often can feel that a rejection of their idea is a rejection of
 them.
 
-New legacy code project. Do we critique the code, the authors, or the system?
+New legacy code project. Do we criticize the code, the authors, or the system?
 
 > Let's not laugh at this code, and instead understand what we do not
 > like about it and how to prevent it from happening in the future.
@@ -149,23 +185,16 @@ that they have a valuable impact to your project and community.
 
 ## Informative website or README
 
-“Landing page” for your projects.
+“Landing page” for your projects. Should contain at least:
 
-Should contain
-
-* Name and brief description
 * Communication channels
 * Installation instructions
 * Usage examples
-* Running tests
-* High-level overview
-* API documentation
-* License
 * Contributing guidelines
 
 ## Use labeled issues
 
-![Labeled issues](imgs/tagged-issues.png)
+![Labeled issues](slides/imgs/tagged-issues.png)
 
 ## "How can I help you?"
 
@@ -247,7 +276,7 @@ Unintentional daily acts that reinforce stereotypes and oppression.
 
 Change unwelcoming speech defaults
 
-![stackoverflow](imgs/stackoverflow.png)
+![stackoverflow](slides/imgs/stackoverflow.png)
 https://twitter.com/alexfulsome/status/641748473470054400
 
 * Hi, guys!
@@ -326,8 +355,6 @@ Our brain shortcuts make us efficient at saving energy but also make us arrive
 at illogical conclusions. We have flaws in our cognition, "low level bugs", and
 knowing about them we can adjust our behavior.
 
-https://en.wikipedia.org/wiki/Pentium_FDIV_bug
-
 A [cognitive bias] is a pattern of deviation in judgment from which inferences
 about other people and situations may be drawn in an illogical way.
 
@@ -351,23 +378,6 @@ Fairness bias can be applied to code reviews.
     the contributor feel heard and valued.
 
 [Fairness bias]: http://www.amazon.com/Sway-Irresistible-Pull-Irrational-Behavior/dp/0385530609
-
-## Loss Aversion
-
-[Loss aversion] describes people’s tendency to strongly prefer avoiding losses
-to acquiring gains. More concretely, giving a person 5 dollars will make a
-person feel somewhat happier, but taking $5 will make that person feel
-definitely unhappier.
-
-Loss aversion relates with saying “no” to a patch.
-
-* As contributors: remember that if you were the reviewer or another external
-    party, you would probably be a bit more skeptic than you currently are about
-    the value of your submission
-* As reviewers: give a clear explanation of the reasons for our rejection, helping authors see more objectively the value of their
-    contributions
-
-[Loss aversion]: https://en.wikipedia.org/wiki/Loss_aversion
 
 ## Online Negative Bias
 
@@ -412,42 +422,6 @@ take on characteristics that have been arbitrarily assigned to us.
 
 [Chameleon Effect]: https://en.wikipedia.org/wiki/Pygmalion_effect
 
-# Why diversity?
-
-## As professionals
-
-Diversity is a learning opportunity. It makes us more capable of delivering a
-better product.
-
-> It’s not about adding diversity for the sake of diversity, it’s about
-> subtracting homogeneity for the sake of realism.
->
-> https://twitter.com/MaryRobinette/status/545428674812465152
-
-### Examples
-
-* Apple Store had a glass stair case. If there had been women in the design
-    phases, they would have avoided the skirts problem.
-    http://jezebel.com/5810219/courthouses-glass-staircase-clearly-not-designed-with-ladies-skirts-in-mind
-* Crash dummies for cars were male until 2011; women and kids weren't taken at
-    first into account, and airbags would be hazardous to them.
-    http://www.autoblog.com/2012/08/29/theres-a-reason-all-crash-test-dummies-were-male-until-last-yea/
-* Heart rate monitor in Apple Watch more innacurate for people with wrist tattoos
-    http://www.macrumors.com/2015/04/29/apple-watch-sensors-tattoogate/
-
-## As humans
-
-> When someone has been discriminated against or is a minority, the status quo
-> is in and on itself unfair. You need to lift people up, give them
-> opportunities that you would not normally. If you are picking names out of a
-> hat that's not sufficient because they are in the minority, they have less
-> chance to be picked out of the hat. And so it does require you to change your
-> mindset, and make an effort to reach out to people who are in a minority
-> status in the group, and make sure they are included.
->
-> Chad Pytel, developer and CEO of thoughtbot
-> http://betweenpipes.com/2015/06/25/Pytel-Fernandez/
-
 # Welcoming behavior - Higher level
 
 I recently pitched my talk to an older woman I know, and she half-joningly
@@ -464,10 +438,6 @@ Slavery was a legal, sizeable business. Powerful organizations depended on it,
 and could enforce in court their right to trade humans. If I read the definition
 of what was common business you now freak out:
 
-> Slavery is a legal or economic system in which property law can apply to
-> humans so that people can be owned, bought and sold accordingly, and cannot
-> withdraw unilaterally from the arrangement.
-
 Now slavery is illegal in all countries, and when states violate this principle
 the International Labor Organization prosecutes them in the International Court
 of Justice. The US Senate has recently passed a resolution apologizing to
@@ -479,14 +449,7 @@ fight against. A step forward.
 
 **And I remembered women’s suffrage**
 
-Women's right to vote proponents had to change collective consciousness once.
-
-> France, 1793: The question of women’s right to vote is discussed in the
-> Parliament of France; women’s right to vote is acknowledged as a principle,
-> but it is still put aside with the explanation that the time is not right to
-> make this a reality and is therefore postponed.
-
-Now many countries have had female presidents for years.
+Women's right to vote proponents had to change collective consciousness once. Now many countries have had female presidents for years.
 
 There are still other rights to pursue, but women’s vote is today as significant
 as any other person in society. A step forward.
@@ -502,12 +465,6 @@ I remembered some real colleagues living real lives earning real salaries,
 telling me they would be fine getting a pay cut if that made the organizations
 they worked for more fair to everyone and sustainable as a whole.
 
-> Transparency breeds trust, and that’s one of the key reasons for us to place
-> such a high importance on it. Open salaries are a step towards the ultimate
-> goal of Buffer being a completely “Open Company.”
->
-> https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/
-
 Implementing open salaries may be a step forward against salary gaps.
 
 They all were (and are) political changes that seemed impossible to discuss
@@ -522,13 +479,11 @@ the same time?
 It might not be their opinions that change, but I'll argue that "common
 knowledge" of those opinions are what triggers the changes.
 
-There is common knowledge of `p` when in a group:
+There is common knowledge of a fact when in a group:
 
-* everyone knows `p`
-* everyone knows that everyone knows `p`
-* everyone knows that everyone knows that everyone knows `p`
-
-And so on (ad infinitum).
+* everyone knows the fact
+* everyone knows that everyone knows the fact
+* And so on
 
 ### Soviet handing leaflets example
 
@@ -546,7 +501,7 @@ And so on (ad infinitum).
 
 ### "Naked emperor" example
 
-![](imgs/Emperor_Clothes_01.jpg)
+![](slides/imgs/Emperor_Clothes_01.jpg)
 https://en.wikipedia.org/wiki/The_Emperor's_New_Clothes#Plot
 
 ## Consequences
@@ -583,6 +538,8 @@ our work, the opportunities we get, or the recognition or salary we should get.
 
 We all know that, and we all know that we know that. Armed with this, let's move
 forward to more welcoming communities.
+
+![](slides/imgs/keep-calm-it-s-only-difficult-conversations.png)
 
 # Resources
 
